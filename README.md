@@ -1,6 +1,16 @@
 # NOVA DIGITAL
 
-A responsive, single-page website for a digital marketing agency. Plain HTML, CSS and JavaScript: no frameworks, no build step.
+NOVA DIGITAL is a responsive, single-page website for a digital marketing agency. It presents the agency's services, portfolio, testimonials and contact options in a distinctive cobalt-and-gold visual identity, with a focus on clear hierarchy, accessibility and fast loading. It is built with plain HTML, CSS and JavaScript: no frameworks, no build step.
+
+## Technologies
+- **HTML5**: semantic structure, SEO metadata, accessible markup
+- **CSS3**: custom properties, Grid and Flexbox, responsive layout, animations
+- **JavaScript (vanilla)**: navigation, filters, form validation, scroll effects
+
+## Developer
+Designed & Developed by [Ahmad](https://github.com/ahmadcrt)
+
+GitHub: [github.com/ahmadcrt](https://github.com/ahmadcrt)
 
 ## Features
 - Sticky navigation with a working mobile menu and active-section highlighting

@@ -144,7 +144,11 @@ em{font:500 .85rem var(--body);color:#c62828;font-style:normal;min-height:0}
 .fgrid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:2rem}
 .footer h3{color:#fff;font-size:1rem}.footer nav,.footer .fgrid>div{display:flex;flex-direction:column;gap:.4rem}
 .footer a{text-decoration:none}.footer a:hover{color:var(--gold)}.footer .social{flex-direction:row}
-.copy{margin-top:3rem;padding-top:1.2rem;border-top:1px solid #333a66;font-size:.9rem}
+.copy{margin-top:3rem;padding-top:1.2rem;border-top:1px solid #333a66;font-size:.9rem;display:flex;flex-wrap:wrap;justify-content:space-between;gap:.4rem 1.5rem}
+.copy p{margin:0}
+.credit{font-size:.82rem;color:#9aa0c4}
+.credit a{color:#c9cde6;text-underline-offset:3px}
+.credit a:hover{color:var(--gold)}
 dialog{border:0;border-radius:var(--r);padding:2rem;max-width:480px;width:calc(100% - 2rem);box-shadow:0 30px 80px rgba(10,14,70,.4)}
 dialog::backdrop{background:rgba(20,26,107,.6)}
 dialog[open]{animation:rise .35s both}
